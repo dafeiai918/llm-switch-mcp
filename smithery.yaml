@@ -1,0 +1,7 @@
+name: llm-switch-mcp
+description: 一键换站 MCP：安全切换客户端站点，默认 dry-run + 自动备份
+categories:
+  - tools
+  - automation
+license: MIT
+repository: https://github.com/dafeiai918/llm-switch-mcp
