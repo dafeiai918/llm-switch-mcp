@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "llm-switch-mcp": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/dafeiai918/llm-switch-mcp",
+        "llm-switch-mcp"
+      ]
+    }
+  }
+}
